@@ -3,3 +3,4 @@
 
 ## 说明
 * 编码器为 x264，版本为157
+* jpeg 转 yuv 使用 libjpeg-turbo
